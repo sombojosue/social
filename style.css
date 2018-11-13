@@ -1,0 +1,21 @@
+body{
+	background-image: url("images/background.jpeg");
+	background-repeat: no-repeat;
+}
+a{
+	text-decoration: none;
+}
+.top_space{
+	margin-top: 70px;
+}
+.profile{
+	padding: 10px;
+	font-size: 20px;
+	border: 1px solid lightgray;
+}
+.name{
+	text-transform: uppercase;
+	font-style: italic;
+	color: green;
+	margin-top: 10px;
+}
